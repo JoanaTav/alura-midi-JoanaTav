@@ -1,6 +1,6 @@
 <h1>Alura Midi</h1>
 
-Projeto realizado durante a Formação Front End T6 - ONE + Alura
+Projeto realizado durante a Formação Front End T6 - ONE Oracle + Alura
 <p>JavaScript para Web: Crie páginas dinâmicas</p>
 
 Nesse curso foi desenvolvido o projeto Alura Midi, que consiste em uma mesa de som virtual, onde cada botão reproduz o som de um instrumento. 
